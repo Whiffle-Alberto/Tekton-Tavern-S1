@@ -21,3 +21,7 @@ You can remove/add more, in accordance with server rules.
 1. Download the resourcepacks.zip file from the latest release.  
 2. Extract the (.zip) files into your minecraft 'resourcepacks' folder.  
 3. Delete the downloaded zip file.  
+
+## Version
+latest - v1.0
+recommended - v1.0
