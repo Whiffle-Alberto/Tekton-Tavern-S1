@@ -111,7 +111,7 @@ The shaders and resourcepacks is also listed.
 ### Visual / Aesthetic
 - [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
 - [Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)
-- [Vanilla Tweaks](https://vanillatweaks.net/) *(custom selection)*
+- [Vanilla Tweaks](https://vanillatweaks.net/share#GJKRrA) *(custom selection)*
 
 ### Visibility / PvP Tweaks
 - [Low Fire](https://modrinth.com/resourcepack/low-on-fire)
