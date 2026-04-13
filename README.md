@@ -127,5 +127,3 @@ The shaders and resourcepacks is also listed.
 - [Mellow Shader](https://modrinth.com/shader/mellow)
 
 </details>
-
-<details>
