@@ -1,5 +1,12 @@
 # Tekton-Tavern-S1-modpack
 modpack for my private server
 
-Simply download the zip and extract into your minecraft mods folder.
-Make sure only the jar files are inside your mods folder.
+Installation instructions:
+• Download the latest release.
+• Extract the zip file.
+• Take all of the jar files out of the 'mods' folder and put it into your minecraft mods folder.
+• Delete the downloaded zip file and empty mods folder.
+
+## Version
+latest - v1.0
+recommended - v1.0
