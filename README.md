@@ -36,6 +36,7 @@ You may add/remove personal visual mods in accordance with server rules.
 ## Notes  
 A full modlist is given below.  
 Links for each mod is also provided.  
+The shaders and resourcepacks is also listed.
 <details>
 <summary><strong>📜 Full Mod List</strong></summary>
 
@@ -104,3 +105,27 @@ Links for each mod is also provided.
 - [XiPackets](https://modrinth.com/mod/xi-packets)
 
 </details>
+<details>
+<summary><strong>📜 Full Resource Pack List</strong></summary>
+
+### Visual / Aesthetic
+- [Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
+- [Visual Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)
+- [Vanilla Tweaks](https://vanillatweaks.net/) *(custom selection)*
+
+### Visibility / PvP Tweaks
+- [Low Fire](https://modrinth.com/resourcepack/low-on-fire)
+- [Low Shield](https://modrinth.com/resourcepack/low-shield-pack)
+
+</details>
+<details>
+<summary><strong>📜 Full Shader Pack List</strong></summary>
+
+### Shaders
+- [BSL Shaders](https://modrinth.com/shader/bsl-shaders)
+- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
+- [Mellow Shader](https://modrinth.com/shader/mellow)
+
+</details>
+
+<details>
