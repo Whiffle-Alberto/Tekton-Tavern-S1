@@ -1,41 +1,36 @@
 # Tekton Tavern S1
-
 Official client files for the **Tekton Tavern** private Minecraft SMP.
-
 Each release includes the required/recommended client-side content for joining the server:
 - Mods
 - Resource Packs
 - Shader Packs
-
-Only the recommended resource packs and shaders are provided.  
+Only the recommended resource packs and shaders are provided.
 You may add/remove personal visual mods in accordance with server rules.
-  
-## Installation instructions  
-
-### Modpack:  
-1. Download the mods.zip file from the latest release.  
-2. Extract the **.jar** files into your minecraft 'mods' folder.  
-3. Delete the downloaded zip file.  
+ 
+## Installation instructions
+### Modpack:
+1. Download the mods.zip file from the latest release.
+2. Extract the **.jar** files into your minecraft 'mods' folder.
+3. Delete the downloaded zip file.
 ---
 ### Shaderpack:
-1. Download the shaders.zip file from the latest release.  
-2. Extract the **.zip** files into your minecraft 'shaderpack' folder.  
+1. Download the shaders.zip file from the latest release.
+2. Extract the **.zip** files into your minecraft 'shaderpack' folder.
 3. Delete the downloaded zip file.
 ---
 ### Resource pack:
-1. Download the resourcepacks.zip file from the latest release.  
-2. Extract the **.zip** files into your minecraft 'resourcepacks' folder.  
-3. Delete the downloaded zip file.  
+1. Download the resourcepacks.zip file from the latest release.
+2. Extract the **.zip** files into your minecraft 'resourcepacks' folder.
+3. Delete the downloaded zip file.
 ---
 ## Version
 | Type | Version |
 |------|---------|
-| Latest | `v1.0` |
-| Recommended | `v1.0` |
-
-## Notes  
-A full modlist is given below.  
-Links for each mod is also provided.  
+| Latest | `v1.1` |
+| Recommended | `v1.1` |
+## Notes
+A full modlist is given below.
+Links for each mod is also provided.
 The shaders and resourcepacks is also listed.
 <details>
 <summary><strong>📜 Full Mod List</strong></summary>
@@ -51,7 +46,6 @@ The shaders and resourcepacks is also listed.
 - [Sodium](https://modrinth.com/mod/sodium)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- [Krypton](https://modrinth.com/mod/krypton)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 - [EntityCulling](https://modrinth.com/mod/entityculling)
 - [MoreCulling](https://modrinth.com/mod/moreculling)
@@ -60,6 +54,9 @@ The shaders and resourcepacks is also listed.
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Spark](https://modrinth.com/mod/spark)
 - [ScalableLux](https://modrinth.com/mod/scalablelux)
+- [Ixeris](https://modrinth.com/mod/ixeris)
+- [PulseNet](https://modrinth.com/mod/pulsenet)
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 
 ### Visual / UI / Shaders
 - [AppleSkin](https://modrinth.com/mod/appleskin)
@@ -71,40 +68,48 @@ The shaders and resourcepacks is also listed.
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [Subtle Effects](https://modrinth.com/mod/subtle-effects)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
-- [Just Zoom](https://modrinth.com/mod/justzoom)
+- [Just Zoom](https://modrinth.com/mod/just-zoom)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
-- [FadeLess](https://modrinth.com/mod/fadeless)
 - [CoolRain](https://modrinth.com/mod/coolrain)
+- [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
 
 ### Gameplay / QoL
 - [AudioPlayer](https://modrinth.com/mod/audioplayer)
 - [Trade Cycling](https://modrinth.com/mod/trade-cycling)
 - [Easy Magic](https://modrinth.com/mod/easy-magic)
-- [Connectible Chains](https://modrinth.com/mod/connectible-chains)
+- [Connectible Chains](https://modrinth.com/mod/reconnectible-chains)
 - [Sit](https://modrinth.com/mod/sit)
 - [Peek](https://modrinth.com/mod/peek)
-- [Paginated Advancements](https://modrinth.com/mod/paginated-advancements)
+- [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)
 - [No Prying Eyes](https://modrinth.com/mod/no-prying-eyes)
 - [Armor Poser](https://modrinth.com/mod/armor-poser)
 - [Particle Interactions](https://modrinth.com/mod/particle-interactions)
+- [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+- [Allow Portal GUIs](https://modrinth.com/mod/allow-portal-guis)
 
 ### Voice / Multiplayer / Replay
 - [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
-- [ReplayMod](https://modrinth.com/mod/replaymod)
-- [Replay Voice Chat](https://modrinth.com/mod/replay-voice-chat)
-- [Bobby](https://modrinth.com/mod/bobby)
 - [Voxy](https://modrinth.com/mod/voxy)
+- [Flashback](https://modrinth.com/mod/flashback)
 
 ### Misc / Utility
 - [Konkrete](https://modrinth.com/mod/konkrete)
-- [PuzzlesLib](https://modrinth.com/mod/puzzleslib)
+- [PuzzlesLib](https://modrinth.com/mod/puzzles-lib)
 - [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 - [Facebar](https://modrinth.com/mod/facebar)
 - [JEI](https://modrinth.com/mod/jei)
 - [Status](https://modrinth.com/mod/status)
-- [XiPackets](https://modrinth.com/mod/xi-packets)
-
+- [XXL Packets](https://modrinth.com/mod/xxl-packets)
+- [Remove Reloading Screen (RRLS)](https://modrinth.com/mod/rrls)
+- [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer)
+- [SeeU](https://modrinth.com/mod/seeu)
+- [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
+- [Force Close Loading Screen](https://modrinth.com/mod/forcecloseworldloadingscreen)
+- [Entity View Distance](https://modrinth.com/mod/entity-view-distance)
+- [More Chat History](https://modrinth.com/mod/morechathistory)
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer)
 </details>
+
 <details>
 <summary><strong>📜 Full Resource Pack List</strong></summary>
 
@@ -116,8 +121,8 @@ The shaders and resourcepacks is also listed.
 ### Visibility / PvP Tweaks
 - [Low Fire](https://modrinth.com/resourcepack/low-on-fire)
 - [Low Shield](https://modrinth.com/resourcepack/low-shield-pack)
-
 </details>
+
 <details>
 <summary><strong>📜 Full Shader Pack List</strong></summary>
 
